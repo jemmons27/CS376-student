@@ -1,0 +1,11 @@
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\bin\Debug\net6.0\Serializer.deps.json
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\bin\Debug\net6.0\Serializer.dll
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\bin\Debug\net6.0\Serializer.pdb
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net6.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfoInputs.cache
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfo.cs
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net6.0\Serializer.csproj.CoreCompileInputs.cache
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net6.0\Serializer.dll
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net6.0\refint\Serializer.dll
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net6.0\Serializer.pdb
+c:\Users\27car\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net6.0\ref\Serializer.dll
